@@ -92,5 +92,7 @@ pop-upgrade recovery upgrade from-release
 # set profile pic
 echo "\n# Set profile pic\n"
 mkdir -p /usr/share/pixmaps/hmg
+chmod 755 /usr/share/pixmaps/hmg
 cp pop/bullet.png /usr/share/pixmaps/hmg/bullet.png
+chmod 755 /usr/share/pixmaps/hmg/bullet.png
 sed -i '/Icon=/c\Icon=/usr/share/pixmaps/hmg/bullet.png' "/var/lib/AccountsService/hmg"
