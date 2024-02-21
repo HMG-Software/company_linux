@@ -1,0 +1,17 @@
+code --install-extension install
+ms-azuretools.vscode-docker
+EditorConfig.EditorConfig
+janisdd.vscode-edit-csv
+mechatroner.rainbow-csv
+eamodio.gitlens
+ambooth.git-rename
+ms-python.isort
+mstuttgart.odoo-snippets
+Odoo.odoo
+ms-python.pylint
+redhat.vscode-xml
+DotJoshJohnson.xml
+streetsidesoftware.code-spell-checker
+streetsidesoftware.code-spell-checker-german
+streetsidesoftware.code-spell-checker-medical-terms
+streetsidesoftware.code-spell-checker-scientific-terms
