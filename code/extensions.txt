@@ -1,4 +1,3 @@
-code --install-extension install
 ms-azuretools.vscode-docker
 EditorConfig.EditorConfig
 janisdd.vscode-edit-csv
